@@ -1,0 +1,15 @@
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Basket.deps.json
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Basket.runtimeconfig.json
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Basket.runtimeconfig.dev.json
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Basket.dll
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\Basket.pdb
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.csprojAssemblyReference.cache
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.csproj.CoreCompileInputs.cache
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.AssemblyInfoInputs.cache
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.AssemblyInfo.cs
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.dll
+C:\GIT\design-pattern-Nadon59\src\Basket\obj\Debug\netcoreapp2.0\Basket.pdb
+C:\GIT\design-pattern-Nadon59\src\Basket\bin\Debug\netcoreapp2.0\article-database.json
